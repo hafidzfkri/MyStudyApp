@@ -1,0 +1,26 @@
+<resources>
+    <color name="warna_latar">#121212</color>
+    <color name="warna_permukaan">#1E1E1E</color>
+    <color name="warna_garis">#2D3748</color>
+
+    <color name="warna_teks_utama">#F1F5F9</color>
+    <color name="warna_teks_sekunder">#A0AEC0</color>
+
+    <color name="warna_header_mulai">#0B1220</color>
+    <color name="warna_header_akhir">#101A2E</color>
+
+    <color name="warna_aksen">#3DDC84</color>
+    <color name="warna_ikon_latar">#1F3B2E</color>
+
+    <color name="warna_tombol_reset">#FF7B72</color>
+
+    <color name="warna_aksen_biru">#3F51B5</color>
+    <color name="warna_aksen_hijau">#4CAF50</color>
+    <color name="warna_aksen_ungu">#9C27B0</color>
+
+    <color name="warna_aksen_latar_biru">#E8EAF6</color>
+    <color name="warna_aksen_latar_hijau">#E8F5E9</color>
+    <color name="warna_aksen_latar_ungu">#F3E5F5</color>
+
+    <color name="warna_teks_di_aksen">#FFFFFF</color>
+</resources>
